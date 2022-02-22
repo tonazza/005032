@@ -1327,4 +1327,6 @@ Connection ~ 3150 5400
 Connection ~ 3150 6650
 Text Notes 4150 7350 0    100  ~ 0
 montare in alternativa U2 o U3
+Text Label 4100 5500 0    50   ~ 0
+3V3_SW
 $EndSCHEMATC

@@ -406,7 +406,7 @@ NoConn ~ 3200 3000
 NoConn ~ 3200 3100
 NoConn ~ 3200 3200
 Text Notes 850  850  0    118  ~ 0
-MODULO MCU
+MODULO MCU - WIFI
 Wire Notes Line
 	7000 1750 7000 550 
 Text Label 4950 2500 2    51   ~ 0
