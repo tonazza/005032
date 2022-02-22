@@ -1,4 +1,4 @@
-18981040982974578
+19359507193475831
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -82062,8 +82062,8 @@ TE_2178713-4
 4
 aerauliqa-modules
 ESP-WROOM-02_breakout_V4
-Through hole straight socket strip, 2x09, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x09 2.54mm double row
+ESP-WROOM-02_breakout_V4
+ESP-WROOM-02
 0
 20
 20
@@ -82075,19 +82075,19 @@ ESP32-WROOM-32E
 39
 39
 aerauliqa-modules
-LC231X
-Through hole straight socket strip, 2x09, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x09 2.54mm double row
+ESP32-WROVER-E
+ESP32-WROVER-E
+Module ESP32
 0
-18
-18
+47
+47
 aerauliqa-modules
-MODULE_ESP32-WROOM-32E_(16MB)
-
-
+LC231X
+LC231X USB to serial TTL converter
+serial USB TTL converter
 0
-39
-39
+18
+18
 aerauliqa-passives
 C_Rect_max19x7mm_P10-P15mm
 C, Rect series, Radial, pin pitch=10 or 15mm, , max length*width=19*7mm, Capacitor
@@ -82271,7 +82271,28 @@ AQ_logo_pcb_5mm
 0
 0
 aerauliqa-symbols
+AQ_logo_pcb_5mm_rame
+
+
+0
+0
+0
+aerauliqa-symbols
 AQ_logo_pcb_10mm
+
+
+0
+0
+0
+aerauliqa-symbols
+AQ_logo_pcb_10mm_rame
+
+
+0
+0
+0
+aerauliqa-symbols
+AQ_logo_pcb_15mm
 
 
 0
@@ -82397,6 +82418,13 @@ AQ_logo_pcb_10mm
 0
 0
 tonazza
+AQ_logo_pcb_15mm
+
+
+0
+0
+0
+tonazza
 AQ_logo_pcb_20mm
 
 
@@ -82459,6 +82487,13 @@ ESP32-WROOM-32E
 0
 39
 39
+tonazza
+ESP32-WROVER-E
+ESP32-WROVER-E
+Module ESP32
+0
+47
+47
 tonazza
 Fiducial_1.5mm_Mask2mm
 Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)
